@@ -1,0 +1,16 @@
+.\_build\bootloader_util_arm.o: ..\bootloader_util_arm.c
+.\_build\bootloader_util_arm.o: ..\include\bootloader_util.h
+.\_build\bootloader_util_arm.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\bootloader_util_arm.o: ..\include\bootloader_types.h
+.\_build\bootloader_util_arm.o: ..\include\dfu_types.h
+.\_build\bootloader_util_arm.o: ..\..\..\..\..\Include\nrf51.h
+.\_build\bootloader_util_arm.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\_build\bootloader_util_arm.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\_build\bootloader_util_arm.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\_build\bootloader_util_arm.o: ..\..\..\..\..\Include\system_nrf51.h
+.\_build\bootloader_util_arm.o: ..\..\..\..\..\Include\app_common\app_util.h
+.\_build\bootloader_util_arm.o: ..\..\..\..\..\Include\compiler_abstraction.h
+.\_build\bootloader_util_arm.o: ..\..\..\..\..\Include\app_common\app_error.h
+.\_build\bootloader_util_arm.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\_build\bootloader_util_arm.o: ..\..\..\..\..\Include\s110\nrf_error.h
+.\_build\bootloader_util_arm.o: ..\..\..\..\..\Include\nordic_common.h

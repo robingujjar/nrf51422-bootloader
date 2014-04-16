@@ -1,0 +1,14 @@
+.\_build\my_app_fifo.o: ..\my_app_fifo.c
+.\_build\my_app_fifo.o: ..\..\..\..\..\Include\app_common\app_fifo.h
+.\_build\my_app_fifo.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\my_app_fifo.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\_build\my_app_fifo.o: ..\..\..\..\..\Include\s110\nrf_error.h
+.\_build\my_app_fifo.o: ..\..\..\..\..\Include\app_common\app_util.h
+.\_build\my_app_fifo.o: ..\..\..\..\..\Include\compiler_abstraction.h
+.\_build\my_app_fifo.o: ..\..\..\..\..\Include\nrf51.h
+.\_build\my_app_fifo.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\_build\my_app_fifo.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\_build\my_app_fifo.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\_build\my_app_fifo.o: ..\..\..\..\..\Include\system_nrf51.h
+.\_build\my_app_fifo.o: ..\..\..\..\..\Include\app_common\app_error.h
+.\_build\my_app_fifo.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
